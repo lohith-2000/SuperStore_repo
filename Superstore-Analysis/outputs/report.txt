@@ -1,0 +1,24 @@
+Total Sales: 2297200.8603
+Total Profit: 286397.0217
+
+Sales by Category:
+Category
+Furniture          741999.7953
+Office Supplies    719047.0320
+Technology         836154.0330
+Name: Sales, dtype: float64
+
+Profit by Region:
+Region
+Central     39706.3625
+East        91522.7800
+South       46749.4303
+West       108418.4489
+Name: Profit, dtype: float64
+
+Segment Performance:
+                    Sales       Profit
+Segment                               
+Consumer     1.161401e+06  134119.2092
+Corporate    7.061464e+05   91979.1340
+Home Office  4.296531e+05   60298.6785
